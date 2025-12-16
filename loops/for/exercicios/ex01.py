@@ -1,6 +1,7 @@
 import random
 
 meta = 1000
+
 vendas = [random.randint(1,2000) for x in range(50)]
 print(vendas)
 
